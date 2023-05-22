@@ -1,0 +1,103 @@
+CEG C_I.wav
+DFA C_ii.wav
+EGB C_iii.wav
+FAC C_VI.wav
+GBD C_V.wav
+ACE C_vi.wav
+BDF C_viio.wav
+
+DbFAb Db_I.wav
+EbGbBb Db_ii.wav
+FAbC Db_iii.wav
+GbBbDb Db_IV.wav
+AbCEb Db_V.wav
+BbDbF Db_vi.wav
+CEbGb Db_viio.wav
+
+DF#A D_I.wav
+EGB D_ii.wav
+F#AC# D_iii.wav
+GBD D_IV.wav
+AC#E D_V.wav
+BDF# D_vi.wav
+C#EG D_viio.wav
+
+EbGBb Eb_I.wav
+FAbC Eb_ii.wav
+GBbD Eb_iii.wav
+AbCEb Eb_IV.wav
+BbDF Eb_V.wav
+CEbG Eb_vi.wav
+DFAb Eb_viio.wav
+
+EG#B E_I.wav
+F#AC# E_ii.wav
+G#BD# E_iii.wav
+AC#E E_IV.wav
+BD#F# E_V.wav
+C#EG# E_vi.wav
+D#F#A E_viio.wav
+
+FAC F_I.wav
+GBbD F_ii.wav
+ACE F_iii.wav
+BbDF F_IV.wav
+CEG F_V.wav
+DFA F_vi.wav
+EGBb F_viio.wav
+
+GbBbDb Gb_I.wav
+AbCbEb Gb_ii.wav
+BbDbF Gb_iii.wav
+CbEbGb Gb_IV.wav
+DbFAb Gb_V.wav
+EbGbBb Gb_vi.wav
+FAbCb Gb_viio.wav
+
+GBD G_I.wav
+ACE G_ii.wav
+BDF# G_iii.wav
+CEG G_IV.wav
+DF#A G_V.wav
+EGB G_vi.wav
+F#AC G_viio.wav
+
+AbCEb Ab_I.wav
+BbDbF Ab_ii.wav
+CEbG Ab_iii.wav
+DbFAb Ab_IV.wav
+EbGBb Ab_V.wav
+FAbC Ab_vi.wav
+GBbDb Ab_viio.wav
+
+AC#E A_I.wav
+BDF# A_ii.wav
+C#EG# A_iii.wav
+DF#A A_IV.wav
+EG#B A_V.wav
+F#AC# A_vi.wav
+G#BD A_viio.wav
+
+BbDF Bb_I.wav
+CEbG Bb_ii.wav
+DFA Bb_iii.wav
+EbGBb Bb_IV.wav
+FAC Bb_V.wav
+GBbD Bb_vi.wav
+ACEb Bb_viio.wav
+
+BD#F# B_I.wav
+C#EG# B_ii.wav
+D#F#A# B_iii.wav
+EG#B B_IV.wav
+F#A#C# B_V.wav
+G#BD# B_vi.wav
+A#C#E B_viio.wav
+
+Correct Correct.wav
+Correct2 Correct2.wav
+Correct3 Correct3.wav
+
+Wrong Wrong.wav
+Wrong2 Wrong2.wav
+Wrong3 Wrong3.wav
